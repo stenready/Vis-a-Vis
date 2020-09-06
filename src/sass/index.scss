@@ -1,0 +1,6 @@
+.error-message-valid{
+  display: none;
+  &.show{
+    display: block;
+  }
+}
